@@ -10,7 +10,7 @@ This is documentation of [Living Papers](https://github.com/uwdata/living-papers
 
 # Text
 
-Basic text 2 formatting is similar to Markdown and includes:
+Basic text formatting is similar to Markdown and includes:
 
 ::: table {#textformat}
 | Syntax | Value       |
